@@ -26,9 +26,9 @@ subtopic 2
 #### 4. Topic 2
 
 Subtopic 1
-<p><img src="img/img1.png" /></p><br />
-<p><img src="img/img2.png" /></p><br />
+<p><a href="img/img1.png"><img src="img/img1.png" width="600px" /></a></p><br />
+<p><a href="img/img2.png"><img src="img/img2.png" width="600px" /></a></p><br />
 
 Subtopic 2
-<p><img src="img/img1.png" /></p><br />
-<p><img src="img/img2.png" /></p><br />
+<p><a href="img/img1.png"><img src="img/img1.png" width="600px" /></a></p><br />
+<p><a href="img/img2.png"><img src="img/img2.png" width="600px" /></a></p><br />
