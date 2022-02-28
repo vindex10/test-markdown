@@ -30,5 +30,9 @@ Subtopic 1
 <p><a href="/img/img2.png"><img src="/img/img2.png" width="600px" /></a></p><br />
 
 Subtopic 2
+
+<details>
+<summary>Hello!</summary>
 <p><a href="/img/img1.png"><img src="/img/img1.png" width="600px" /></a></p><br />
 <p><a href="/img/img2.png"><img src="/img/img2.png" width="600px" /></a></p><br />
+</details>
